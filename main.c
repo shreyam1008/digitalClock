@@ -1,4 +1,4 @@
-
+//DIGITAL CLOCK USING SEVEN SEGMENT DISPLAY AND MIRCOPROCESSOR(ATMEGA16)
 #include <avr/delay.h>
 #include <avr/io.h>
 #include <avr/interrupt.h>
